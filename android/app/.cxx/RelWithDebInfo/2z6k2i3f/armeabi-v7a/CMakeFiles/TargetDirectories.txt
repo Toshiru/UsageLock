@@ -1,0 +1,2 @@
+C:/Users/parro/Desktop/Usage Lock/android/app/.cxx/RelWithDebInfo/2z6k2i3f/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/parro/Desktop/Usage Lock/android/app/.cxx/RelWithDebInfo/2z6k2i3f/armeabi-v7a/CMakeFiles/rebuild_cache.dir

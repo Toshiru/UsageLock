@@ -1,0 +1,2 @@
+C:/Users/parro/Desktop/Usage Lock/android/app/.cxx/RelWithDebInfo/2z6k2i3f/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/parro/Desktop/Usage Lock/android/app/.cxx/RelWithDebInfo/2z6k2i3f/x86_64/CMakeFiles/rebuild_cache.dir
